@@ -4,7 +4,7 @@ DeorumLaqueus is a GURPS game universe.
 
 
 sēmen, sēminis (neutrum)
-vītis -is (fēminīnum)
+vītis -is (fēminīnum) (vīs maga)
 
 sīgnum -ī (neutrum) | sīgnum rēgia vītis
 
@@ -30,10 +30,10 @@ rēgīna -ae (fēminīnum) (sīgnum rēgīnae antistitae de rēgia vītis)
 
 rēgia -ae (fēminīnum) (rēgia vītis)
 
-Joddie / Joddies
+Joddie / Joddies vīs, vīs -- vīrēs (vīs psȳchica)
 moderātrīx, moderātrīcis (fēminīnum)  | moderātrīx cīvis (sīgnum moderātrīcis cīvis de rēgia vītis)
 moderātor, moderātōris (masculīnum)   | moderātor socius (sīgnum moderātōris sociī de rēgia vītis)
 
-
+vīs f (irregular, genitive *vīs)
 
 
