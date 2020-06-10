@@ -6,7 +6,7 @@ DeorumLaqueus is a GURPS game universe.
 sēmen, sēminis (neutrum)
 vītis -is (fēminīnum)
 
-sīgnum -ī (neutrum) | sīgnum vītis
+sīgnum -ī (neutrum) | sīgnum rēgia vītis
 
 cīvis cīvis (masculīnum et fēminīnum)
 cīvis gradiēns (singularis)
@@ -14,23 +14,23 @@ cīves gradientēs (pluralis)
 
 receptrīx, receptrīcis (fēminīnum)
 
-cīvis nova (receptiō)      (sīgnum cīvis novae de vītis)
+cīvis nova (receptiō)      (sīgnum cīvis novae de rēgia vītis)
 cīves novae (receptiōnēs)
 
-cīvis minor    (sīgnum cīvis minōris de vītis)
+cīvis minor    (sīgnum cīvis minōris de rēgia vītis)
 cīves minōrēs
 
-cīvis maior    (sīgnum cīvis maiōris de vītis)
+cīvis maior    (sīgnum cīvis maiōris de rēgia vītis)
 cīves maiōrēs
 
-senātrīx, senātrīcis (fēminīnum) (sīgnum senātrīcis de vītis)
+senātrīx, senātrīcis (fēminīnum) (sīgnum senātrīcis de rēgia vītis)
 
-rēgīnula -ae (fēminīnum) (sīgnum rēgīnulae de vītis)
-rēgīna -ae (fēminīnum) (sīgnum rēgīnae de vītis)   pontifex, pontificis (masculīnum)
+rēgīnula -ae (fēminīnum) (sīgnum rēgīnulae antistitae de rēgia vītis) antistita -ae (fēminīnum)
+rēgīna -ae (fēminīnum) (sīgnum rēgīnae antistitae de rēgia vītis)
 
 rēgia -ae (fēminīnum) (rēgia vītis)
 
-Joddie / Joddies (sīgnum moderātrīcis cīvis de vītis et sīgnum moderātōris sociī de vītis)
+Joddie / Joddies (sīgnum moderātrīcis cīvis de rēgia vītis et sīgnum moderātōris sociī de rēgia vītis)
 moderātrīx, moderātrīcis (fēminīnum)  | moderātrīx cīvis
 moderātor, moderātōris (masculīnum)   | moderātor socius
 
