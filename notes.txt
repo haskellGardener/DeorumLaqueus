@@ -1,7 +1,5 @@
-DeorumLaqueus is a GURPS game universe.
-
+Deorum Laqueus is a GURPS game universe.
 "Snare of the gods".
-
 
 sēmen, sēminis (neutrum)
 vītis -is (fēminīnum) (vīs maga)
@@ -30,10 +28,12 @@ rēgīna -ae (fēminīnum) (sīgnum rēgīnae antistitae de rēgia vītis)
 
 rēgia -ae (fēminīnum) (rēgia vītis)
 
-Joddie / Joddies (vīs psȳchica)
+Joddie / Joddies (vīs mentis)
 moderātrīx, moderātrīcis (fēminīnum)  | moderātrīx cīvis (sīgnum moderātrīcis cīvis de rēgia vītis)
 moderātor, moderātōris (masculīnum)   | moderātor socius (sīgnum moderātōris sociī de rēgia vītis)
 
 vīs f (irregular, genitive *vīs)
+mēns mentis (i-stem) (fēminīnum)
 
-
+agricola -ae (masculīnum) (sīgnum agricolae cīvis de rēgia vītis et
+                           sīgnum agricolae sociī de rēgia vītis)
