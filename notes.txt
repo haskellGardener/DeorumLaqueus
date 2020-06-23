@@ -12,28 +12,36 @@ cīves gradientēs (pluralis)
 
 receptrīx, receptrīcis (fēminīnum)
 
-cīvis nova (receptiō)      (sīgnum cīvis novae de rēgia vītis)
+cīvis nova  (receptiō)    (sīgnum cīvis novae de rēgia vītis)
 cīves novae (receptiōnēs)
 
-cīvis minor    (sīgnum cīvis minōris de rēgia vītis)
+cīvis minor               (sīgnum cīvis minōris de rēgia vītis)
 cīves minōrēs
 
-cīvis maior    (sīgnum cīvis maiōris de rēgia vītis)
+cīvis maior               (sīgnum cīvis maiōris de rēgia vītis)
 cīves maiōrēs
 
 senātrīx, senātrīcis (fēminīnum) (sīgnum senātrīcis de rēgia vītis)
 
 rēgīnula -ae (fēminīnum) (sīgnum rēgīnulae antistitae de rēgia vītis) antistita -ae (fēminīnum)
-rēgīna -ae (fēminīnum) (sīgnum rēgīnae antistitae de rēgia vītis)
+rēgīna   -ae (fēminīnum) (sīgnum rēgīnae   antistitae de rēgia vītis)
 
 rēgia -ae (fēminīnum) (rēgia vītis)
 
 Joddie / Joddies (vīs mentis)
-moderātrīx, moderātrīcis (fēminīnum)  | moderātrīx cīvis (sīgnum moderātrīcis cīvis de rēgia vītis)
-moderātor, moderātōris (masculīnum)   | moderātor socius (sīgnum moderātōris sociī de rēgia vītis)
+moderātrīx, moderātrīcis (fēminīnum) | moderātrīx cīvis (sīgnum moderātrīcis cīvis de rēgia vītis)
+moderātor, moderātōris (masculīnum)  | moderātor socius (sīgnum moderātōris  sociī de rēgia vītis)
 
 vīs f (irregular, genitive *vīs)
 mēns mentis (i-stem) (fēminīnum)
 
 agricola -ae (masculīnum) (sīgnum agricolae cīvis de rēgia vītis et
                            sīgnum agricolae sociī de rēgia vītis)
+
+
+Rage levels
+
+0 - Simmering. Noticable to all cīvis de rēgia vītis. Not contagious.
+1 - Anger. Same as 0, but contagious. Grants 2 additional magery.
+2 - Enraged. Same as 1, highly contagious. Grants 4 additional magery. Danger of insanity.
+3 - Wrath. Same as 2, extremely contagious. Grant 6+ additional magery. Blighted soul, insanity.
