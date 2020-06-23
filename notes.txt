@@ -44,4 +44,18 @@ Rage levels
 0 - Simmering. Noticable to all cīvis de rēgia vītis. Not contagious.
 1 - Anger. Same as 0, but contagious. Grants 2 additional magery.
 2 - Enraged. Same as 1, highly contagious. Grants 4 additional magery. Danger of insanity.
+    More experienced mages in Rage 2 become beatified (no fear), but retain their humanity.
 3 - Wrath. Same as 2, extremely contagious. Grant 6+ additional magery. Blighted soul, insanity.
+    Lesser mages are at real risk of physical and magical self immolation (similar to niffening).
+    Rage 3 opens up permanenty higer levels of magery quickly at the expense of their humanity.
+    Permanent: Volcanic buildup requiring excercising their wrath and power periodically.
+    Cannot safely leave Regia as they require constant power from vitis or physically
+    deteriorate and eventually die -- Addictiion.
+    Rage 3 is treated as an illness and anyone that suffers rage 3 is a victim.
+    Joddies are permanently assigned to monitor and manage Rage 3 victims.
+    Rage 3 mages become beatified (no fear) and suffer a god complex where they percieve that
+    nothing they do is wrong. Their humanity is gone in Rage 3.
+
+Rage level changes take place over seconds, minutes or hours. senātrīx or higher can endure
+rage 2 and not become insane and never (or rarely ever unless the Vitis is on the verge of death)
+go into rage 3.
